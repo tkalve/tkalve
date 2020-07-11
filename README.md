@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Thomas, a software developer from Egersund, Norway. I am working for the consultancy [Bouvet](https://www.bouvet.no/), where I create useful things for our customers.
+
 <!--
 **tkalve/tkalve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
