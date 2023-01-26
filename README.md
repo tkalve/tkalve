@@ -2,7 +2,7 @@
 
 I am Thomas, a software developer from Egersund, Norway.
 
-Do you need a dad joke? Drag this into your bookmark bar: [Get a dad joke](javascript%3A%21function%28%29%7Bvar%20e%3Dnew%20XMLHttpRequest%3Be.onreadystatechange%3Dfunction%28%29%7Bif%284%3D%3De.readyState%26%26200%3D%3De.status%29%7Bvar%20t%3DJSON.parse%28e.responseText%29.joke%3Bnavigator.clipboard.writeText%28t%29%3Blet%20o%3Ddocument.createElement%28%22div%22%29%3Bo.textContent%3D%22Joke%20added%20to%20your%20clipboard%3A%20%22%2Bt%2Co.style%3D%22background%3A%20%23333366%3B%20color%3A%20white%3B%20font-size%3A%2018px%3B%20padding%3A%201em%3B%20position%3A%20fixed%3B%20top%3A%200%3B%20width%3A%20100%25%3B%20z-index%3A%202147483647%3B%22%2Cdocument.body.append%28o%29%2CsetTimeout%28%28%29%3D%3E%7Bo.remove%28%29%7D%2C3e3%29%7D%7D%2Ce.open%28%22GET%22%2C%22https%3A%2F%2Ficanhazdadjoke.com%2F%22%2C%210%29%2Ce.setRequestHeader%28%22Accept%22%2C%22application%2Fjson%22%29%2Ce.send%28%29%7D%28%29%3B) ([gist](https://gist.github.com/tkalve/25856bfc3af0b3686910d042e8684c44))
+Need a [dad joke bookmarklet](https://gist.github.com/tkalve/25856bfc3af0b3686910d042e8684c44)?
 
 <!--
 **tkalve/tkalve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
